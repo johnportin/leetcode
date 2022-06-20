@@ -1,0 +1,6 @@
+These problems all involve using a binary search. The main binary search algorithm goes:
+
+look at the middle element:
+    If it is what you want, return
+    else:
+        look at the top half or bottom half as needed.
